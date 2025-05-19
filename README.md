@@ -45,6 +45,7 @@ This part will explain how to build the frame
   <img src="https://github.com/Jorre-student/Tabula-Captiva/blob/main/cel2.jpeg?raw=true" alt="cel frame" width="22%"/>
   <img src="https://github.com/Jorre-student/Tabula-Captiva/blob/main/cel3.jpeg?raw=true" alt="cel frame" width="22%"/>
 </p>
+
 #### Scharnieren
 Text will come here
 #### Hout
