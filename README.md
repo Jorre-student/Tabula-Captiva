@@ -38,14 +38,13 @@ Text will come here
 ## Cel nabouwen
 Here i will explain how to build the jail
 
+### Wooden Frame
+This part will explain how to build the frame
 <p>
   <img src="https://raw.githubusercontent.com/Jorre-student/Tabula-Captiva/refs/heads/main/cel1.jpeg" alt="cel frame" width="22%"/>
   <img src="https://github.com/Jorre-student/Tabula-Captiva/blob/main/cel2.jpeg?raw=true" alt="cel frame" width="22%"/>
   <img src="https://github.com/Jorre-student/Tabula-Captiva/blob/main/cel3.jpeg?raw=true" alt="cel frame" width="22%"/>
 </p>
-
-### Wooden Frame
-This part will explain how to build the frame
 #### Scharnieren
 Text will come here
 #### Hout
@@ -70,5 +69,5 @@ Text will come here
  - [Onze Website](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Procesdocument](https://github.com/matiassingers/awesome-readme)
  - [Instagram](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
- - [Aftermovie](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+  - [Aftermovie](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
