@@ -67,8 +67,8 @@ This part will explain what decoration we used
 Text will come here
 ## Belangrijke links
 
- - [Onze Website](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Procesdocument](https://github.com/matiassingers/awesome-readme)
- - [Instagram](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-  - [Aftermovie](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Onze Website](https://www.tabulacaptiva.be/)
+ - [Procesdocument](https://www.tabulacaptiva-proces.be/)
+ - [Instagram](https://www.instagram.com/tabula_captiva/)
+ - [Aftermovie](https://www.youtube.com)
 
