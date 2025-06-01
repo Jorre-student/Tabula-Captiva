@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/Jorre-student/Tabula-Captiva/blob/main/logo%20tabula.png?raw=true)
+![Logo](https://github.com/Jorre-student/Tabula-Captiva/blob/main/readme/logo%20tabula.png?raw=true)
 
 Tabula Captiva is een immersive storytelling experience die je meeneemt in het leven van geïnterneerden, mensen met psychische problemen die opgesloten worden zonder strafrechtelijke veroordeling, in de gevangenis van de Begijnenstraat.
 
@@ -41,9 +41,9 @@ Here i will explain how to build the jail
 ### Wooden Frame
 This part will explain how to build the frame
 <p>
-  <img src="https://raw.githubusercontent.com/Jorre-student/Tabula-Captiva/refs/heads/main/cel1.jpeg" alt="cel frame" width="22%"/>
-  <img src="https://github.com/Jorre-student/Tabula-Captiva/blob/main/cel2.jpeg?raw=true" alt="cel frame" width="22%"/>
-  <img src="https://github.com/Jorre-student/Tabula-Captiva/blob/main/cel3.jpeg?raw=true" alt="cel frame" width="22%"/>
+  <img src="https://github.com/Jorre-student/Tabula-Captiva/blob/main/readme/cel1.jpeg?raw=true" alt="cel frame" width="22%"/>
+  <img src="https://github.com/Jorre-student/Tabula-Captiva/blob/main/readme/cel2.jpeg?raw=true" alt="cel frame" width="22%"/>
+  <img src="https://github.com/Jorre-student/Tabula-Captiva/blob/main/readme/cel3.jpeg?raw=true" alt="cel frame" width="22%"/>
 </p>
 
 #### Scharnieren
