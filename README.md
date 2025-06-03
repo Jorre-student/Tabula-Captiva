@@ -17,13 +17,13 @@ In een nagebouwde cel ontdek je hun verhalen via interactieve meubels uit de gev
 
 
 ## Code
-### DOEL VAN HET SCRIPT
+### Doel van het script
 
 Het doel van bijgevoegde code is het aansturen van fysieke knoppen die elk een specifiek audiobestand afspelen en tegelijkertijd een bijbehorende lamp inschakelen via MQTT. Na het afspelen wordt de lamp automatisch weer uitgeschakeld op basis van een vooraf ingestelde tijdsduur.
 
 
 
-### BENODIGDHEDEN
+### Benodigdheden
 
 - Raspberry Pi met GPIO-ondersteuning
 - 7 fysieke knoppen aangesloten op GPIO-pinnen: [17, 6, 14, 23, 25, 21, 22]
@@ -34,7 +34,7 @@ Het doel van bijgevoegde code is het aansturen van fysieke knoppen die elk een s
 
 
 
-### EXTERNE LIBRARIES
+### Externe Libaries
  RPI.GPIO → uitlezen van knoppen via GPIO-pinnen 
 
 pygame → afspelen van mp3-geluidsfragmenten
@@ -43,16 +43,18 @@ paho.mqtt.client → communicatie met de Zigbee2MQTT broker (aansturen van lampe
 
 
 
-### belangrijk!
+### Belangrijk!
 
 pygame & paho.mqtt dienen zelf via de terminal geïnstalleerd te worden en staan niet standaard op de Raspberry Pi. 
 
-(installeer benodigde paketten met volgende code in de terminal - pip install pygame paho-mqtt)
+Installeer benodigde paketten met volgende code in de terminal:
+```bash
+pip install pygame paho-mqtt
+```
 
 
 
-
-### BELANGRIJKE ONDERDELEN IN HET SCRIPT
+### Belangrijke onderdelen in het script
 
 GPIO button setup  → gaat over fysieke knoppen – werkt niet bij verkeerde pin-aansluitingen
 
@@ -75,7 +77,7 @@ WHILE TRUE lus → dit is de hoofdloop die knoppen detecteert en acties uitvoe
 
 
 
-### MOGELIJKE VALKUILEN
+### Mogelijke valkuilen
 
 AUDIODEVICE → als het audiodevice niet bestaat of fout ingesteld is, wordt er geen geluid afgespeeld      controleer je audiodevice via de terminal met: aplay -L
 
