@@ -17,23 +17,80 @@ In een nagebouwde cel ontdek je hun verhalen via interactieve meubels uit de gev
 
 
 ## Code
-Here i will explain all the code
-### Front End
-This part will explain the front-end part of the code
-#### Onderdeel 1
-Text will come here
-#### Onderdeel 2
-Text will come here
-#### Onderdeel 3
-Text will come here
-### Back end
-This part will explain the back-end part of the code
-#### Onderdeel 1
-Text will come here
-#### Onderdeel 2
-Text will come here
-#### Onderdeel 3
-Text will come here
+### DOEL VAN HET SCRIPT
+
+Het doel van bijgevoegde code is het aansturen van fysieke knoppen die elk een specifiek audiobestand afspelen en tegelijkertijd een bijbehorende lamp inschakelen via MQTT. Na het afspelen wordt de lamp automatisch weer uitgeschakeld op basis van een vooraf ingestelde tijdsduur.
+
+
+
+### BENODIGDHEDEN
+
+- Raspberry Pi met GPIO-ondersteuning
+- 7 fysieke knoppen aangesloten op GPIO-pinnen: [17, 6, 14, 23, 25, 21, 22]
+- geluid via HDMI of audio-uitgang
+- werkende Zigbee2MQTT broker
+- Zigbee-lampen met namen zoals "lamp1", "lamp2", etc.
+
+
+
+
+### EXTERNE LIBRARIES
+ RPI.GPIO → uitlezen van knoppen via GPIO-pinnen 
+
+pygame → afspelen van mp3-geluidsfragmenten
+
+paho.mqtt.client → communicatie met de Zigbee2MQTT broker (aansturen van lampen via MQTT)
+
+
+
+### belangrijk!
+
+pygame & paho.mqtt dienen zelf via de terminal geïnstalleerd te worden en staan niet standaard op de Raspberry Pi. 
+
+(installeer benodigde paketten met volgende code in de terminal - pip install pygame paho-mqtt)
+
+
+
+
+### BELANGRIJKE ONDERDELEN IN HET SCRIPT
+
+GPIO button setup  → gaat over fysieke knoppen – werkt niet bij verkeerde pin-aansluitingen
+
+
+audio_files + durations  → elke knop speelt een specifiek mp3-bestand af gedurende een vastgelegde tijdsduur
+
+
+MQTT COMMUNICATIE → stuurt aan/uit-signalen naar lampen via MQTT
+
+
+PYGAME DEVICE INIT → fout in audiodevice → geen geluid 
+
+
+opmerking: er kan ook gebruik gemaakt worden van de aanwezige audio-uitgang in de Raspberry Pi (beperkte geluidskwaliteit), in dat  geval kan dit deeltje code weggelaten worden
+
+
+WHILE TRUE lus → dit is de hoofdloop die knoppen detecteert en acties uitvoert
+
+
+
+
+
+### MOGELIJKE VALKUILEN
+
+AUDIODEVICE → als het audiodevice niet bestaat of fout ingesteld is, wordt er geen geluid afgespeeld      controleer je audiodevice via de terminal met: aplay -L
+
+
+MQTT BROKER CONFIGURATIE → het IP-adres in de code (broker_address) moet overeenkomen met jouw eigen Zigbee2MQTT broker      gebruik een vast IP of hostname om verbindingsproblemen te voorkomen
+
+
+LAMPNAMEN (MQTT) → de MQTT-onderwerpen gebruiken "lamp1", "lamp2", enz.      zorg dat deze overeenkomen met de friendly names in Zigbee2MQTT
+
+
+GPIO PIN-CONFIGURATIE → de knop-pinnen in de code moeten overeenkomen met je fysieke aansluitingen      verkeerde pin = geen reactie!
+
+
+AUDIO-DUUR KOMT NIET OVEREEN → de tijdsduur (durations) moet overeenkomen met de echte lengte van elk mp3-bestand     controleer de lengte van het audiobestand via de terminal met: ffprobe bestandnaam.mp3
+
 
 ## Cel nabouwen
 Here i will explain how to build the jail
