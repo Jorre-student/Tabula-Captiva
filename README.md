@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/4852d93d-2a11-478d-96f3-1bdfb8ff645d)![image](https://github.com/user-attachments/assets/a370c914-acd3-44c6-8a6d-2a1b7ead0979)
 ![Logo](https://github.com/Jorre-student/Tabula-Captiva/blob/main/readme/logo%20tabula.png?raw=true)
 
 Tabula Captiva is een immersive storytelling experience die je meeneemt in het leven van geïnterneerden, mensen met psychische problemen die opgesloten worden zonder strafrechtelijke veroordeling, in de gevangenis van de Begijnenstraat.
