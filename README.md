@@ -10,9 +10,22 @@ In een nagebouwde cel ontdek je hun verhalen via interactieve meubels uit de gev
 - Technologie
     - ...
 - Ruimte
-    - ...
+    - grenen geschaafd 22mm x 45mm:
+        - 16x 2,40m
+        - 6x 2,70m
+        - 7x 3,00m
+    - 12 x bouten
+    - 8 x scharnieren
+    - kartonnen panelen
+    - 2 zwarte theaterdoeken
+    - dozen voor de knoppen
 - Decoratie
-    - ...
+    - Kleding (sokken, broek, trui)
+    - Bed + matras + Bed overtrek + laken
+    - Houten stoel
+    - Bureau
+    - Wc + Wastafel zelf te maken
+    - 2 Posters
 
 
 ## Code
