@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3f932e12-44ea-47f0-b34e-4b2f827d21bd)![Logo](https://github.com/Jorre-student/Tabula-Captiva/blob/main/readme/logo%20tabula.png?raw=true)
+![image](https://github.com/user-attachments/assets/c12b6dfa-406d-4dea-a2d1-f742fa5cd6cd)![image](https://github.com/user-attachments/assets/d3e193b5-c034-4f5a-874b-773594fa124a)![image](https://github.com/user-attachments/assets/3f932e12-44ea-47f0-b34e-4b2f827d21bd)![Logo](https://github.com/Jorre-student/Tabula-Captiva/blob/main/readme/logo%20tabula.png?raw=true)
 
 Tabula Captiva is een immersive storytelling experience die je meeneemt in het leven van geïnterneerden, mensen met psychische problemen die opgesloten worden zonder strafrechtelijke veroordeling, in de gevangenis van de Begijnenstraat.
 
@@ -169,12 +169,35 @@ In totaal hebben we 2 dozen gemaakt:
 Deze kun je dan aan de buitenkant vastmaken zodat de knop in de muur kan worden bevestigd.
 
 ## Kartonnen meubels
-Stap 1:  Bestanden tekenen in Sketchup (in 3D), nadien uitvouwen in illustrator bestanden
+### Stap 1:
+Bestanden tekenen in Sketchup (in 3D), nadien uitvouwen in illustrator bestanden
 <p> 
-    <img src="https://github.com/Jorre-student/Tabula-Captiva/blob/main/readme/Bestanden%20WC.png?raw=true" alt="cel frame" width="40%"/>
-    <img src="https://github.com/Jorre-student/Tabula-Captiva/blob/main/readme/Bestanden%20Wastafel.png?raw=true" alt="cel frame" width="40%"/>
+    <img src="https://github.com/Jorre-student/Tabula-Captiva/blob/main/readme/wc1.png?raw=true" alt="cel frame" width="40%"/>
+    <img src="https://github.com/Jorre-student/Tabula-Captiva/blob/main/readme/Wastafel1.png?raw=true" alt="cel frame" width="40%"/>
 </p>   
-Stap 2:  De snijplotter is niet groot genoeg, dus moeten de stukken uiteengehaald worden. Hierbij moeten dustflaps toegevoegd worden om nadien de delen terug aan elkaar te lijmen.
+
+### Stap 2:
+De snijplotter is niet groot genoeg, dus moeten de stukken uiteengehaald worden. Hierbij moeten dustflaps toegevoegd worden om nadien de delen terug aan elkaar te lijmen.
+
+#### Bestanden voor de wc:
+    <img src="https://github.com/Jorre-student/Tabula-Captiva/blob/main/readme/Bestanden%20WC.png?raw=true" alt="cel frame" width="40%"/>
+#### Bestanden voor de wastafel
+    <img src="https://github.com/Jorre-student/Tabula-Captiva/blob/main/readme/Bestanden%20Wastafel.png?raw=true" alt="cel frame" width="40%"/>
+
+### Stap 3:
+In illustrator rillijnen (rode kleur) & snijlijnen (zwarte kleur) toevoegen. De rillijnen gaan in de map met Crease, de snijlijnen in Thru-cut.
+
+    <img src="https://github.com/Jorre-student/Tabula-Captiva/blob/main/readme/stap3%20meubels.png?raw=true" alt="cel frame" width="20%"/>
+### Stap 4:
+Maak een printklare PDF 
+### Stap 5:
+Stel de snijplotter in en snij de bestanden uit 
+### Stap 6:
+Lijm alle delen aan elkaar en werk af met een zilveren spray
+<p> 
+    <img src="https://github.com/Jorre-student/Tabula-Captiva/blob/main/readme/eindresultaat%20wc.png?raw=true" alt="cel frame" width="40%"/>
+    <img src="https://github.com/Jorre-student/Tabula-Captiva/blob/main/readme/eindresultaat%20wastafel.png?raw=true" alt="cel frame" width="40%"/>
+</p>   
 
 ## Eindresultaat
 Uiteindelijk zag onze cel er zo uit, met alle inhoud en de verschillende knoppen.
