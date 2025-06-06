@@ -1,4 +1,4 @@
-![Logo](https://github.com/Jorre-student/Tabula-Captiva/blob/main/readme/logo%20tabula.png?raw=true)
+![image](https://github.com/user-attachments/assets/3f932e12-44ea-47f0-b34e-4b2f827d21bd)![Logo](https://github.com/Jorre-student/Tabula-Captiva/blob/main/readme/logo%20tabula.png?raw=true)
 
 Tabula Captiva is een immersive storytelling experience die je meeneemt in het leven van geïnterneerden, mensen met psychische problemen die opgesloten worden zonder strafrechtelijke veroordeling, in de gevangenis van de Begijnenstraat.
 
@@ -170,13 +170,10 @@ Deze kun je dan aan de buitenkant vastmaken zodat de knop in de muur kan worden 
 
 ## Kartonnen meubels
 Stap 1:  Bestanden tekenen in Sketchup (in 3D), nadien uitvouwen in illustrator bestanden
-<div>
+<p> 
     <img src="https://github.com/Jorre-student/Tabula-Captiva/blob/main/readme/Bestanden%20WC.png?raw=true" alt="cel frame" width="40%"/>
-    
     <img src="https://github.com/Jorre-student/Tabula-Captiva/blob/main/readme/Bestanden%20Wastafel.png?raw=true" alt="cel frame" width="40%"/>
-    
-</div>
-
+</p>   
 Stap 2:  De snijplotter is niet groot genoeg, dus moeten de stukken uiteengehaald worden. Hierbij moeten dustflaps toegevoegd worden om nadien de delen terug aan elkaar te lijmen.
 
 ## Eindresultaat
