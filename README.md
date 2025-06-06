@@ -179,14 +179,15 @@ Bestanden tekenen in Sketchup (in 3D), nadien uitvouwen in illustrator bestanden
 De snijplotter is niet groot genoeg, dus moeten de stukken uiteengehaald worden. Hierbij moeten dustflaps toegevoegd worden om nadien de delen terug aan elkaar te lijmen.
 
 #### Bestanden voor de wc:
-    <img src="https://github.com/Jorre-student/Tabula-Captiva/blob/main/readme/Bestanden%20WC.png?raw=true" alt="cel frame" width="40%"/>
+<img src="https://github.com/Jorre-student/Tabula-Captiva/blob/main/readme/Bestanden%20WC.png?raw=true" alt="cel frame" width="40%"/>
+    
 #### Bestanden voor de wastafel
-    <img src="https://github.com/Jorre-student/Tabula-Captiva/blob/main/readme/Bestanden%20Wastafel.png?raw=true" alt="cel frame" width="40%"/>
+<img src="https://github.com/Jorre-student/Tabula-Captiva/blob/main/readme/Bestanden%20Wastafel.png?raw=true" alt="cel frame" width="40%"/>
 
 ### Stap 3:
 In illustrator rillijnen (rode kleur) & snijlijnen (zwarte kleur) toevoegen. De rillijnen gaan in de map met Crease, de snijlijnen in Thru-cut.
+<img src="https://github.com/Jorre-student/Tabula-Captiva/blob/main/readme/stap3%20meubels.png?raw=true" alt="cel frame" width="20%"/>
 
-    <img src="https://github.com/Jorre-student/Tabula-Captiva/blob/main/readme/stap3%20meubels.png?raw=true" alt="cel frame" width="20%"/>
 ### Stap 4:
 Maak een printklare PDF 
 ### Stap 5:
@@ -194,8 +195,8 @@ Stel de snijplotter in en snij de bestanden uit 
 ### Stap 6:
 Lijm alle delen aan elkaar en werk af met een zilveren spray
 <p> 
-    <img src="https://github.com/Jorre-student/Tabula-Captiva/blob/main/readme/eindresultaat%20wc.png?raw=true" alt="cel frame" width="40%"/>
-    <img src="https://github.com/Jorre-student/Tabula-Captiva/blob/main/readme/eindresultaat%20wastafel.png?raw=true" alt="cel frame" width="40%"/>
+<img src="https://github.com/Jorre-student/Tabula-Captiva/blob/main/readme/eindresultaat%20wc.png?raw=true" alt="cel frame" width="40%"/>
+<img src="https://github.com/Jorre-student/Tabula-Captiva/blob/main/readme/eindresultaat%20wastafel.png?raw=true" alt="cel frame" width="40%"/>
 </p>   
 
 ## Prikbord
