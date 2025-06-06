@@ -111,7 +111,7 @@ Voor onze cel hebben we grenen geschaafd 22mm x 45mm gebruikt, dit is stabiel ge
 => Nadien af te zagen om naar de juiste lengtes te brengen
 => Het overtollige hout word gebruikt om de schuine kantjes te maken in de hoeken, voor extra stabiliteit. Zie schets hieronder.
 
- <img src="https://github.com/Jorre-student/Tabula-Captiva/blob/main/readme/afmetingen%20cel.png?raw=true"alt="cel schets" width="80%"/>
+ <img src="https://github.com/Jorre-student/Tabula-Captiva/blob/main/readme/afmetingencel.png?raw=true" alt="cel schets" width="80%"/>
 
 ### Monteren 
 Nadat alles gezaagd is naar de juiste lengte kan je het in elkaar gaan puzzelen. Zoals op de schets hierboven we bouwen per muur, hierdoor zal elke hoek 2 latten hebben die gebruikt zullen worden om nadien het makkelijker in elkaar te krijgen.
