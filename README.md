@@ -168,7 +168,18 @@ In totaal hebben we 2 dozen gemaakt:
 
 Deze kun je dan aan de buitenkant vastmaken zodat de knop in de muur kan worden bevestigd.
 
-### Eindresultaat
+## Kartonnen meubels
+Stap 1:  Bestanden tekenen in Sketchup (in 3D), nadien uitvouwen in illustrator bestanden
+<div>
+    <img src="https://github.com/Jorre-student/Tabula-Captiva/blob/main/readme/Bestanden%20WC.png?raw=true" alt="cel frame" width="40%"/>
+    
+    <img src="https://github.com/Jorre-student/Tabula-Captiva/blob/main/readme/Bestanden%20Wastafel.png?raw=true" alt="cel frame" width="40%"/>
+    
+</div>
+
+Stap 2:  De snijplotter is niet groot genoeg, dus moeten de stukken uiteengehaald worden. Hierbij moeten dustflaps toegevoegd worden om nadien de delen terug aan elkaar te lijmen.
+
+## Eindresultaat
 Uiteindelijk zag onze cel er zo uit, met alle inhoud en de verschillende knoppen.
 
 <img src="https://github.com/Jorre-student/Tabula-Captiva/blob/main/readme/eindresultaat.png?raw=true" alt="cel frame" width="80%"/>
