@@ -124,9 +124,7 @@ Als dit allemaal in elkaar zit heb je het belangrijkste werk gedaan, vervolgens 
 
 <img src="https://github.com/Jorre-student/Tabula-Captiva/blob/main/readme/cel2.jpeg?raw=true" alt="cel frame" width="40%"/>
   
-Hier kan je ervoor kiezen om elk frame in 2 te zagen en enkele scharnieren te plaatsen zodat het gemakkelijker verplaatst of je kan het in zijn geheel laten.
-
-Vervolgens boor je in elke dubbele lat (dus op alle hoeken) een gat van 8mm, dit doe je 3 keer per hoek. Hierna kan je er bouten in steken zodat de cel op zichzelf kan blijven staan zonder de klemmen.
+Hier kan je ervoor kiezen om elk frame in 2 te zagen en enkele scharnieren te plaatsen zodat het gemakkelijker verplaatst of je kan het in zijn geheel laten. Vervolgens boor je in elke dubbele lat (dus op alle hoeken) een gat van 8mm, dit doe je 3 keer per hoek. Hierna kan je er bouten in steken zodat de cel op zichzelf kan blijven staan zonder de klemmen.
 
 ### Muren & verbindingen
 Als muren hebben we karton gebruikt, dit zorgde ervoor dat de installatie snel en gemakkelijk verder in elkaar kon worden gezet. Optimaal gebruik je hier iets steviger voor, maar karton vastmaken met nagels of vijzen kan perfect werken en het juiste gevoel geven.
@@ -157,7 +155,9 @@ In totaal hebben we 2 dozen gemaakt:
 
 Deze kun je dan aan de buitenkant vastmaken zodat de knop in de muur kan worden bevestigd.
 
+### Eindresultaat
 Uiteindelijk zag onze cel er zo uit, met alle inhoud en de verschillende knoppen.
+
 <img src="https://github.com/Jorre-student/Tabula-Captiva/blob/main/readme/eindresultaat.png?raw=true" alt="cel frame" width="80%"/>
 
 ## Belangrijke links
