@@ -252,5 +252,5 @@ Uiteindelijk zag onze cel er zo uit, met alle inhoud en de verschillende knoppen
  - [Github voor Onze Website](https://github.com/nienkeminnesma/2425_cc_groep3_installatiewebsite)
  - [Procesdocument](https://www.tabulacaptiva-proces.be/)
  - [Instagram](https://www.instagram.com/tabula_captiva/)
- - [Aftermovie](https://www.youtube.com)
+ - [Aftermovie](https://www.youtube.com/watch?v=7DyNq4u6IUU)
 
