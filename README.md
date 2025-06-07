@@ -7,7 +7,11 @@ In een nagebouwde cel ontdek je hun verhalen via interactieve meubels uit de gev
 [Bekijk onze Aftermovie](https://www.youtube.com)
 ## Materials
 - Technologie
-    - ...
+    - Raspberry Pi met GPIO-ondersteuning
+    - 7 fysieke knoppen aangesloten op GPIO-pinnen: [17, 6, 14, 23, 25, 21, 22]
+    - geluid via HDMI of audio-uitgang
+    - werkende Zigbee2MQTT broker
+    - Zigbee-lampen met namen zoals "lamp1", "lamp2", etc.
 - Ruimte
     - grenen geschaafd 22mm x 45mm:
         - 16x 2,40m
