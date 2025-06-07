@@ -232,6 +232,9 @@ Stel het aantal frames in voor de lengte van de animatie.
 Kies een videoformaat voor de uitvoer.
 Render de animatie en sla deze op als video.
 
+### Video:
+<iframe src="https://apbe-my.sharepoint.com/personal/s151295_ap_be/_layouts/15/embed.aspx?UniqueId=bc8ea0e8-d5ae-42a6-9534-6a3bd2e6f7ab&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="FinalVideoCCmp4.mp4"></iframe>
+
 
 ## Eindresultaat
 Uiteindelijk zag onze cel er zo uit, met alle inhoud en de verschillende knoppen.
