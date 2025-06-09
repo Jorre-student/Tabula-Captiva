@@ -246,7 +246,7 @@ Uiteindelijk zag onze cel er zo uit, met alle inhoud en de verschillende knoppen
 
 <img src="https://github.com/Jorre-student/Tabula-Captiva/blob/main/readme/eindresultaat.png?raw=true" alt="cel frame" width="80%"/>
 
-[![Watch the video](https://img.youtube.com/vi/7DyNq4u6IUU/maxresdefault.jpg)](https://youtu.be/7DyNq4u6IUU)
+[![Bekijk de video](https://img.youtube.com/vi/7DyNq4u6IUU/hqdefault.jpg)](https://www.youtube.com/watch?v=7DyNq4u6IUU)
 
 ## Belangrijke links
 
